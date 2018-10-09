@@ -59,7 +59,7 @@ enableGitInfo = false
   organizations = [ { name = "Inria Lille Nord Europe", url = "https://team.inria.fr/magnet/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait1.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "brij.srivastava@inria.fr"
@@ -278,24 +278,29 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "News"
+  url = "#news"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Publications"
+  url = "#publications_selected"
   weight = 3
+
+#[[menu.main]]
+ # name = "Posts"
+ # url = "#posts"
+ # weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
   weight = 4
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+#[[menu.main]]
+ # name = "Teaching"
+ # url = "#teaching"
+ # weight = 5
 
 [[menu.main]]
   name = "Contact"
