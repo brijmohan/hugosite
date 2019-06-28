@@ -59,10 +59,10 @@ enableGitInfo = false
   organizations = [ { name = "Inria Lille Nord Europe", url = "https://team.inria.fr/magnet/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "paris_pp1.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "pp_brussels.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "brij.srivastava@inria.fr"
+  email = "A.B@C, where A=brij, B=srivastava, C=inria.fr"
   address = "Building B, 6 Rue Heloïse, 59650 Villeneuve-d'Ascq"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "+33 60 93 96685"
